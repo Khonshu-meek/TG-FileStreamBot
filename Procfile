@@ -1,1 +1,1 @@
-web: fsb run
+worker: go run main.go
